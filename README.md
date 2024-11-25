@@ -11,24 +11,16 @@ This project demonstrates a **Movie Recommender System** built using collaborati
 
 ## Technologies Used  
 - **Programming Languages**: Python  
-- **Libraries**: NumPy, Pandas, Matplotlib, PyTorch  
+- **Libraries**: NumPy, Pandas, Matplotlib  
 - **Visualization**: Seaborn, PCA  
 - **Data Handling**: Pickle, CSV  
 
-## Getting Started  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/Mamoro98/Recommender-System-Omer-AIMS.git  
-   ```  
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the Jupyter Notebook for step-by-step implementation and visualization.  
+## Getting Started 
+Run the Jupyter Notebook for step-by-step implementation and visualization.  
 
 ## Project Structure  
-- **`Recommender system first draft.ipynb`**: Main implementation of the recommender system.  
-- **Data files**: Includes ratings and movies datasets (link in the notebook).  
+- **`Recommender system first draft.ipynb`**: Main implementation of the recommender system ( maybe changed later, stay tuned XD ).  
+- **Data files**: Includes ratings and movies datasets (MovieLens Dataset, link: https://grouplens.org/datasets/movielens/).  
 
 ## Visualizations  
 - Degree distribution for users and movies.  
@@ -37,7 +29,9 @@ This project demonstrates a **Movie Recommender System** built using collaborati
 
 ## Future Enhancements  
 - Integrate hybrid recommendation techniques.  
-- Extend to real-time recommendation systems.  
+- Extend to real-time recommendation systems.
+- Build website.
+- Re-implement the code with JAX.
 
 ## License  
 This project is open-source and available under the [MIT License](LICENSE).  
