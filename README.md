@@ -36,6 +36,17 @@ Run the Jupyter Notebook for step-by-step implementation and visualization.
 - **Bias + Latent Factor Model**: Enhanced accuracy and personalization.
 - **Polarization Insights**: Identification of highly divisive and universally liked movies.
 
+
+## 📚 Live Demo & Repositories
+
+- **Live Web Application**: Movie Recommender Web App
+
+- **Frontend Repository**: GitHub - Frontend
+
+- **Backend Repository**: GitHub - Backend
+
+
+
 ## 🔮 Future Enhancements  
 - **Hybrid Recommendation**: Integrate content-based filtering with collaborative filtering.
 - **Real-Time Recommendations**: Transition to dynamic recommendation generation.
