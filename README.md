@@ -36,15 +36,11 @@ Run the Jupyter Notebook for step-by-step implementation and visualization.
 - **Bias + Latent Factor Model**: Enhanced accuracy and personalization.
 - **Polarization Insights**: Identification of highly divisive and universally liked movies.
 
-
-## 📚 Live Demo & Repositories
-
-- **Live Web Application**: Movie Recommender Web App
-
-- **Frontend Repository**: GitHub - Frontend
-
-- **Backend Repository**: GitHub - Backend
-
+  
+## 📚 Live Demo & Repositories  
+- **Live Web Application**: [Movie Recommender Web App](https://recommender-system-frontend.vercel.app/home)  
+- **Frontend Repository**: [GitHub - Frontend](https://github.com/Mamoro98/Recommender-System-Frontend)  
+- **Backend Repository**: [GitHub - Backend](https://github.com/Mamoro98/Recommender-System-Backend)
 
 
 ## 🔮 Future Enhancements  
@@ -56,4 +52,11 @@ Run the Jupyter Notebook for step-by-step implementation and visualization.
 
 ## 📝 License  
 This project is open-source and available under the [MIT License](LICENSE).
+
+
+
+
+
+
+
 
